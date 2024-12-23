@@ -3,4 +3,7 @@ Numpy
 Nltk and Spacy library
 matplotlib
 word2vec
+Scikit learn
+Regex library
+Gensim 
 
