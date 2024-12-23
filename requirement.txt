@@ -1,0 +1,6 @@
+Pandas
+Numpy
+Nltk and Spacy library
+matplotlib
+word2vec
+
