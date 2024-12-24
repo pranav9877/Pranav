@@ -1,6 +1,9 @@
 1. As my contribution in this group project I have helped with dataset loading and checking missing values.
 2. I have worked on EDA part by visualizing the target column.
 
+# Preprocessing of text Data
+As part of a disaster-related tweet prediction project, I led data preprocessing by implementing comprehensive text cleaning (URL/special character removal, stopwords filtering), tokenization, and lemmatization techniques. I also developed systematic approaches for handling missing values, which collectively improved data quality and established a robust foundation for our model's performance.
+
 
 
 
